@@ -9,8 +9,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/RodrigoQuiroz09/ToonTanks/blob/main/images/capture.png">
-    <img src="images/toontanks.gif" alt="Logo" width="450" height="450">
+  <a href="https://github.com/RodrigoQuiroz09/ToonTanks/blob/main/images/toon.gif">
+    <img src="images/toon.gif" alt="Logo" width="450" height="450">
   </a>
 
 <h2 align="center">Toon Tanks</h2>
